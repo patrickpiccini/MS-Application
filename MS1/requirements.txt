@@ -1,0 +1,5 @@
+psycopg2-binary
+argon2-cffi
+flask
+pika
+

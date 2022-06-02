@@ -1,0 +1,7 @@
+psycopg2-binary
+Flask-Caching
+threaded
+flask
+redis
+pika
+uuid
