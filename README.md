@@ -54,7 +54,7 @@ Lembre-se de fazer a comunicação necessária entre os serviços para garantir 
 Essas aplicações também **DEVEM** estar de acordo com os padrões REST e **DEVE** ser disponibilizada uma documentação contendo os endpoints e payloads utilizados nas requisições.
 
 
-## Critérios de avaliação
+## Critérios de Aplicação
 
 Dê uma atenção especial aos seguintes aspectos:
 
