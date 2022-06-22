@@ -11,9 +11,7 @@ Created by:
 
 
 
-# Teste para analista desenvolvedor
-
-O objetivo deste teste é verificar (até certo ponto) suas habilidades de codificação e arquitetura. Para isso você receberá um problema simples onde poderá mostrar suas técnicas de desenvolvimento.
+O objetivo é verificar (até certo ponto) habilidades de codificação e arquitetura. Para isso você receberá um problema simples onde poderá mostrar suas técnicas de desenvolvimento.
 
 Nós encorajamos você a exagerar um pouco na solução para mostrar do que você é capaz.
 
