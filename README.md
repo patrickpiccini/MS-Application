@@ -51,28 +51,3 @@ Lembre-se de fazer a comunicação necessária entre os serviços para garantir 
 
 Essas aplicações também **DEVEM** estar de acordo com os padrões REST e **DEVE** ser disponibilizada uma documentação contendo os endpoints e payloads utilizados nas requisições.
 
-
-## Critérios de Aplicação
-
-Dê uma atenção especial aos seguintes aspectos:
-
-- Você **DEVE** usar bibliotecas de terceiros, e pode escolher usar um framework, utilizar não vai ser uma penalidade, mas você vai precisar justificar a sua escolha.
-- Suas aplicações **DEVEM** executar em containers Docker.
-- Suas aplicações **DEVEM** retornar um JSON válido e **DEVEM** conter os recursos citados anteriormente.
-- Você **DEVE** escrever um código testável e demonstrar isso escrevendo testes unitários.
-- Você **DEVE** prestar atenção nas melhores práticas para segurança de APIs.
-- Você **DEVE** seguir as diretizes de estilo de código.
-- Você **NÃO** precisa desenvolver um "frontend" (telas) para esse teste.
-
-Pontos que consideramos um bônus:
-
-- Fazer uso de uma criptografia reversível de dados sensíveis do usuário, como: email, cpf e telefone, antes de persisti-los no banco de dados
-- Suas respostas durante o code review
-- Sua descrição do que foi feito na sua "pull request"
-- Setup da aplicação em apenas um comando ou um script que facilite esse setup
-- Outros tipos de testes, como: testes funcionais e de integração
-- Histórico do seus commits, com mensagens descritivas do que está sendo desenvolvido.
-
----
-
-Boa sorte!
